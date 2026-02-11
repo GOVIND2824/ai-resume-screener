@@ -33,6 +33,12 @@ This tool:
 
 ---
 
+## ⚙️ Environment
+- Python 3.11
+- Streamlit Cloud deployment
+
+---
+
 ## 🎯 Goal
 Reduce resume shortlisting time while maintaining structured and explainable evaluation.
 
@@ -41,4 +47,5 @@ Reduce resume shortlisting time while maintaining structured and explainable eva
 ## 👨‍💻 Author
 Govind Aggarwal  
 B.Sc. Computer Science & Mathematics
+
 
