@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 pypdf
 python-dotenv
+=======
+streamlit
+pypdf
+python-dotenv
+>>>>>>> 19ea6d2c8a3837cd04c6a11358f9b8563a5695b5
 groq
